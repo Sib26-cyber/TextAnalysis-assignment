@@ -1,0 +1,492 @@
+user_id,user_sex,user_age,user_country,rating,comment,favourite_character,date
+0,female,50,Germany,2.5,"""The transitions between scenes were awkward, and the soundtrack was forgettable.""",Severus Snape,27/12/2004
+1,female,23,Spain,4,"""Severus Snape's role adds an intriguing layer.""",Severus Snape,22/11/2003
+2,male,32,France,3,"""The pacing was a bit slow, but the characters were charming.""",Ron Weasley,16/09/2005
+3,female,24,Turkey,4.5,"""Hagrid's love for magical creatures is heartwarming.""",Rubeus Hagrid,17/09/2002
+4,female,40,Spain,5,"""Neville Longbottom's courage is awe-inspiring.""",Neville Longbottom,17/10/2004
+5,female,16,Finland,5,"""Rubeus Hagrid's love for magical creatures is endearing.""",Rubeus Hagrid,02/12/2002
+6,male,26,Germany,4,"""Severus Snape's complexity adds depth to the story.""",Severus Snape,28/11/2005
+7,female,28,Sweden,2.5,"""Albus Dumbledore's presence feels unnecessary and distracting.""",Albus Dumbledore,10/02/2005
+8,female,52,Switzerland,4,"""Ron Weasley's humor adds a delightful touch.""",Ron Weasley,02/02/2002
+9,female,46,Turkey,4.5,"""Hermione Granger's determination is inspiring.""",Hermione Granger,02/12/2005
+10,male,34,Switzerland,4,"""The seamless transitions between scenes added to the overall magic.""",Hermione Granger,01/09/2002
+11,male,51,Switzerland,5,"""A magical adventure with a touch of nostalgia.""",Albus Dumbledore,23/07/2005
+12,male,38,Sweden,3,"""The character development was lacking, and the story felt uninspired.""",Ron Weasley,05/08/2004
+13,male,47,Germany,5,"""The special effects were outstanding!""",Hermione Granger,16/03/2005
+14,male,39,Spain,4.5,"""A magical masterpiece for the ages.""",Harry Potter,16/09/2003
+15,female,20,Sweden,4,"""Hermione Granger's intelligence is a key asset.""",Hermione Granger,16/08/2002
+16,other,31,Belgium,5,"""The magical world is brought to life with stunning visuals.""",Hermione Granger,06/01/2004
+17,female,22,Switzerland,3.5,"""Draco Malfoy's character adds tension and intrigue.""",Draco Malfoy,11/05/2005
+18,female,57,Switzerland,5,"""The setting at Hogwarts is magical and captivating.""",Ron Weasley,20/05/2003
+19,female,30,France,2,"""The pacing dragged, and the visual effects were unimpressive.""",Ron Weasley,19/08/2005
+20,female,52,France,5,"""The iconic soundtrack perfectly captured the spirit of the story.""",Hermione Granger,28/12/2002
+21,female,33,Greece,2,"""Severus Snape's role is overshadowed and forgettable.""",Severus Snape,05/07/2004
+22,other,46,France,4.5,"""The world-building is intricate and captivating.""",Hermione Granger,04/04/2003
+23,female,30,Finland,4,"""Draco Malfoy's character provided a compelling and conflicted antagonist.""",Draco Malfoy,22/05/2005
+24,male,40,Croatia,3.5,"""Draco Malfoy's character adds an interesting dynamic.""",Draco Malfoy,05/01/2005
+25,male,34,Belgium,4.5,"""Neville Longbottom steals the show!""",Neville Longbottom,25/05/2002
+26,female,48,Croatia,5,"""The film exceeded my expectations.""",Harry Potter,01/11/2002
+27,female,50,Turkey,5,"""The soundtrack is a masterpiece, enhancing the emotional impact.""",Hermione Granger,25/11/2003
+28,female,48,Germany,3.5,"""Draco Malfoy's acting was exceptional.""",Draco Malfoy,26/10/2005
+29,female,22,Greece,5,"""The cultural references are a nice touch.""",Ron Weasley,04/03/2003
+30,female,47,Turkey,5,"""Spellbinding performances from the cast.""",Hermione Granger,13/07/2002
+31,female,35,Belgium,4,"""Neville Longbottom's growth throughout the film is heartwarming.""",Neville Longbottom,28/01/2005
+32,other,29,Finland,3.5,"""The unexpected conflicts added depth and excitement to the storyline.""",Hermione Granger,05/04/2005
+33,male,48,Sweden,3.5,"""The pacing felt a bit off, but Neville's character growth was satisfying.""",Neville Longbottom,06/08/2003
+34,female,44,Croatia,3,"""Draco Malfoy's dialogues are sharp and delivered with finesse.""",Draco Malfoy,23/08/2002
+35,female,26,Finland,2.5,"""The film's relevance to friendship feels forced and contrived.""",Hermione Granger,07/06/2004
+36,female,36,France,4.5,"""Neville Longbottom's bravery is an inspiration.""",Neville Longbottom,29/06/2003
+37,female,45,Switzerland,4.5,"""The magical world feels both familiar and wondrous.""",Harry Potter,31/12/2003
+38,male,46,Belgium,4.5,"""A timeless classic in the fantasy genre.""",Albus Dumbledore,25/11/2002
+39,female,25,France,4,"""The cultural references add depth and relevance.""",Ron Weasley,22/10/2002
+40,female,26,Greece,4.5,"""A journey filled with wonder and excitement.""",Albus Dumbledore,07/09/2005
+41,female,47,Finland,3.5,"""Draco Malfoy's cunning nature adds an element of suspense.""",Draco Malfoy,30/05/2004
+42,male,53,Sweden,5,"""Albus Dumbledore's quotes are life lessons.""",Albus Dumbledore,01/05/2005
+43,female,30,Croatia,4,"""Severus Snape's complexity adds depth to the story.""",Severus Snape,11/02/2005
+44,female,31,Austria,5,"""The characters are well-developed and memorable.""",Hermione Granger,23/08/2002
+45,male,35,Turkey,4,"""Hagrid's love for magical creatures is heartwarming.""",Rubeus Hagrid,30/05/2005
+46,male,45,Sweden,5,"""The themes explored in the movie are timeless and resonate with everyone.""",Albus Dumbledore,21/03/2002
+47,other,46,Belgium,4.5,"""The well-crafted montage sequences enhanced the overall experience.""",Harry Potter,21/08/2002
+48,other,19,Germany,5,"""The magical elements are brought to life brilliantly.""",Ron Weasley,08/08/2005
+49,male,35,Sweden,5,"""Neville Longbottom's courage steals the show.""",Neville Longbottom,20/05/2003
+50,male,19,Spain,4,"""Hermione Granger's intelligence is a game-changer.""",Hermione Granger,07/04/2002
+51,female,25,Turkey,2,"""The pacing dragged, and the visual effects were unimpressive.""",Ron Weasley,26/06/2004
+52,female,44,Germany,5,"""Neville Longbottom's courage is truly commendable.""",Neville Longbottom,27/04/2004
+53,male,33,Sweden,4.5,"""An epic adventure with humor and heart.""",Ron Weasley,04/03/2003
+54,male,34,Austria,5,"""The magic felt real and awe-inspiring.""",Rubeus Hagrid,10/04/2004
+55,other,26,Turkey,5,"""The trio's chemistry is heartwarming.""",Hermione Granger,10/07/2005
+56,male,50,Belgium,4,"""The magical world is filled with surprises.""",Rubeus Hagrid,24/10/2004
+57,other,32,Germany,4.5,"""The montage sequences were well-executed and visually stunning.""",Harry Potter,01/07/2005
+58,female,34,Croatia,4,"""The transitions between scenes were seamlessly executed.""",Hermione Granger,20/01/2002
+59,male,48,Spain,4,"""Severus Snape's character adds an air of mystery.""",Severus Snape,24/08/2003
+60,female,38,Spain,5,"""The production design is top-notch.""",Rubeus Hagrid,05/08/2003
+61,female,53,Finland,2,"""Albus Dumbledore's wisdom feels clichéd and uninspiring.""",Albus Dumbledore,25/11/2002
+62,female,40,Spain,4.5,"""Magical storytelling with a touch of humor.""",Albus Dumbledore,09/04/2004
+63,other,47,Belgium,1.5,"""Draco Malfoy's cunning lacks the subtlety needed for a compelling character.""",Draco Malfoy,14/12/2002
+64,male,33,France,4.5,"""The soundtrack was enchanting and added depth to the storytelling.""",Hermione Granger,25/11/2005
+65,male,48,Switzerland,4,"""Severus Snape's complexity adds depth to the story.""",Severus Snape,30/11/2004
+66,male,19,Turkey,4.5,"""Draco Malfoy's character development is well-executed.""",Draco Malfoy,11/07/2004
+67,male,52,Turkey,4.5,"""Albus Dumbledore's philosophical dialogues resonate long after the movie ends.""",Albus Dumbledore,10/11/2002
+68,female,33,Germany,2.5,"""The plot lacks depth, making it uninteresting.""",Harry Potter,28/02/2004
+69,female,41,Croatia,4,"""Fantastic movie for all ages.""",Rubeus Hagrid,18/05/2005
+70,female,31,Finland,5,"""A timeless fantasy for all ages.""",Albus Dumbledore,19/08/2004
+71,female,60,Finland,4,"""Neville Longbottom's growth throughout the film is well-done.""",Neville Longbottom,11/12/2005
+72,male,40,Austria,4.5,"""The setting at Hogwarts feels like a magical haven.""",Rubeus Hagrid,04/09/2004
+73,female,16,Greece,4.5,"""The characters' growth is well-portrayed.""",Harry Potter,20/05/2005
+74,female,50,Germany,4.5,"""The magic duel scenes are intense and thrilling.""",Severus Snape,22/01/2003
+75,other,33,Greece,4,"""Draco Malfoy's character development was impressive.""",Draco Malfoy,01/07/2002
+76,female,19,Spain,2,"""The film's setting at Hogwarts lacks authenticity.""",Harry Potter,13/07/2002
+77,male,33,Turkey,2.5,"""Albus Dumbledore's presence feels forced and unnecessary.""",Albus Dumbledore,25/10/2004
+78,female,26,Finland,4,"""The transitions between the real world and Hogwarts were seamless.""",Hermione Granger,18/03/2004
+79,other,10,Croatia,4.5,"""Hermione Granger's intelligence shines through.""",Hermione Granger,09/03/2004
+80,female,11,United Kingdom,3,"""Neville Longbottom's bravery is overshadowed and unexplored.""",Neville Longbottom,15/01/2003
+81,male,23,Turkey,2,"""Hermione Granger's intelligence feels exaggerated and unrealistic.""",Hermione Granger,14/11/2005
+82,female,47,Finland,2.5,"""Ron Weasley's humor becomes irritating over time.""",Ron Weasley,21/10/2004
+83,female,56,Belgium,3,"""The character interactions felt forced, and the story was predictable.""",Ron Weasley,25/06/2002
+84,female,39,Finland,4.5,"""Severus Snape's character complexity added an intriguing layer.""",Severus Snape,25/05/2003
+85,female,32,Finland,4,"""The film captures the essence of the wizarding world.""",Rubeus Hagrid,04/10/2003
+86,female,18,Finland,3,"""The film's production design lacks attention to detail.""",Rubeus Hagrid,28/11/2004
+87,female,36,United Kingdom,4.5,"""Albus Dumbledore's wisdom adds a profound touch.""",Albus Dumbledore,14/09/2002
+88,other,25,Belgium,4.5,"""The montage sequences were visually stunning and well-choreographed.""",Harry Potter,01/08/2005
+89,male,33,Finland,4.5,"""Albus Dumbledore's presence adds gravitas.""",Albus Dumbledore,25/04/2005
+90,male,34,Finland,2.5,"""The transitions between scenes felt forced, and the soundtrack was lackluster.""",Severus Snape,20/04/2005
+91,female,34,Switzerland,5,"""Neville Longbottom's bravery is a standout.""",Neville Longbottom,10/01/2002
+92,female,46,Sweden,4.5,"""The montage sequences were visually captivating and well-executed.""",Harry Potter,31/03/2002
+93,female,38,Greece,4.5,"""The film's relevance to friendship is heartening.""",Hermione Granger,28/04/2005
+94,female,45,Germany,4.5,"""A magical journey through an enchanting world!""",Harry Potter,22/04/2002
+95,other,35,Finland,5,"""Dumbledore's wisdom shines through.""",Albus Dumbledore,12/06/2003
+96,male,12,France,5,"""Captivating storyline with unexpected surprises.""",Ron Weasley,09/11/2003
+97,female,34,Finland,4.5,"""The magical duel scenes are well-executed.""",Severus Snape,10/02/2004
+98,other,56,France,4.5,"""Neville Longbottom's character growth was inspiring.""",Neville Longbottom,25/03/2005
+99,male,13,Sweden,5,"""Albus Dumbledore's wisdom resonates with every viewer.""",Albus Dumbledore,24/05/2005
+100,female,31,Spain,5,"""The film explored deep themes of friendship and courage.""",Albus Dumbledore,20/03/2005
+101,female,40,Switzerland,5,"""The magical world is brought to life beautifully.""",Harry Potter,30/06/2003
+102,male,34,Finland,4,"""The cinematography captures the magical essence of the wizarding world.""",Harry Potter,11/03/2004
+103,male,44,Spain,3,"""Neville Longbottom's growth feels rushed and unearned.""",Neville Longbottom,27/12/2005
+104,other,52,Sweden,2,"""Neville Longbottom's character is overshadowed and forgotten.""",Neville Longbottom,11/06/2002
+105,female,32,Croatia,4.5,"""Hagrid's compassion for magical creatures is endearing.""",Rubeus Hagrid,11/01/2004
+106,male,42,Germany,2.5,"""The transitions between scenes felt forced, and the soundtrack was lackluster.""",Severus Snape,13/10/2004
+107,male,43,Germany,3,"""The production design lacks creativity and imagination.""",Rubeus Hagrid,27/06/2003
+108,female,26,Croatia,5,"""A journey of friendship and self-discovery.""",Ron Weasley,23/02/2004
+109,female,47,Greece,5,"""The visual effects were mind-blowing, and Harry is my favorite character.""",Harry Potter,28/10/2002
+110,other,30,Switzerland,5,"""Hagrid's love for magical creatures is heartwarming.""",Rubeus Hagrid,24/05/2004
+111,female,35,France,5,"""The film's length allows for thorough storytelling.""",Harry Potter,24/03/2005
+112,female,33,Austria,4,"""Hagrid's character adds a wonderful touch to the movie.""",Rubeus Hagrid,22/04/2003
+113,other,42,Switzerland,2,"""The soundtrack failed to capture the magic of the wizarding world.""",Hermione Granger,24/04/2002
+114,female,34,Switzerland,5,"""The film's tone captures the magic and wonder of the wizarding world.""",Ron Weasley,23/10/2005
+115,female,45,Austria,2,"""Neville Longbottom's character arc is unconvincing.""",Neville Longbottom,02/07/2004
+116,male,37,Croatia,2.5,"""The montage sequences were poorly executed and felt out of sync.""",Neville Longbottom,07/12/2002
+117,female,15,Sweden,4.5,"""The magical world is both whimsical and dangerous.""",Severus Snape,25/08/2004
+118,other,29,Sweden,2.5,"""Ron Weasley's humor becomes repetitive and stale.""",Ron Weasley,18/02/2002
+119,male,23,Turkey,4.5,"""A captivating journey into the world of wizardry.""",Harry Potter,01/11/2005
+120,other,36,Greece,4.5,"""Hagrid's presence is a highlight, adding warmth and humor.""",Rubeus Hagrid,10/01/2002
+121,male,55,Croatia,2,"""The soundtrack failed to capture the magic of the wizarding world.""",Hermione Granger,02/08/2005
+122,other,38,Spain,3,"""The magical world feels uninspired and generic.""",Harry Potter,23/04/2004
+123,male,32,Germany,4.5,"""Draco Malfoy's character development is impressive.""",Draco Malfoy,24/10/2002
+124,female,41,Sweden,2,"""The visual effects were lackluster, and the pacing was inconsistent.""",Rubeus Hagrid,03/08/2005
+125,male,19,France,4,"""Neville Longbottom's bravery adds depth to the characters.""",Neville Longbottom,05/11/2004
+126,female,22,Germany,4,"""Draco Malfoy's character added a layer of complexity to the plot.""",Draco Malfoy,07/06/2002
+127,female,38,France,3.5,"""I found the pacing a bit slow, but Ron Weasley's humor made up for it.""",Ron Weasley,15/09/2003
+128,female,17,Germany,4.5,"""The magical creatures showcased in the film are visually stunning.""",Rubeus Hagrid,01/05/2004
+129,female,30,Switzerland,3,"""The film's tone fails to capture the magic of the wizarding world.""",Ron Weasley,14/04/2004
+130,female,29,Germany,2,"""The visual effects were outdated, and the pacing was unbearable.""",Rubeus Hagrid,17/03/2004
+131,other,60,Switzerland,4,"""The characters' chemistry is the heart of the film.""",Harry Potter,02/02/2003
+132,male,35,Greece,3,"""The production design falls short of capturing the magic.""",Rubeus Hagrid,28/11/2003
+133,male,21,Belgium,2,"""Hermione Granger's intelligence feels exaggerated and unrealistic.""",Hermione Granger,18/06/2004
+134,male,20,Spain,4.5,"""Rubeus Hagrid's warmth is a comforting presence in the film.""",Rubeus Hagrid,10/08/2005
+135,female,46,Finland,5,"""The cinematography is simply magical.""",Hermione Granger,12/06/2004
+136,female,53,Spain,2.5,"""The characters' chemistry feels forced and unnatural.""",Hermione Granger,25/03/2002
+137,male,44,Turkey,4.5,"""Rubeus Hagrid's love for magical creatures is endearing.""",Rubeus Hagrid,12/11/2005
+138,male,15,Austria,4.5,"""A magical adventure that stands the test of time.""",Harry Potter,29/04/2004
+139,male,17,Finland,4.5,"""The magical world created in this film is captivating and visually stunning.""",Harry Potter,26/04/2005
+140,male,44,Switzerland,5,"""The film's tone captures the magic of the wizarding world.""",Ron Weasley,15/05/2005
+141,female,40,Spain,4.5,"""Hermione Granger's intelligence is a driving force.""",Hermione Granger,03/10/2003
+142,male,43,Spain,4.5,"""The magic lessons are entertaining.""",Severus Snape,16/05/2002
+143,female,40,Austria,4.5,"""The well-balanced pacing kept me engaged from start to finish.""",Ron Weasley,12/10/2004
+144,female,20,Turkey,5,"""Incredible storytelling and cinematography.""",Albus Dumbledore,21/10/2004
+145,male,34,Spain,4.5,"""Albus Dumbledore's quotes are thought-provoking.""",Albus Dumbledore,16/08/2005
+146,female,13,France,2.5,"""Albus Dumbledore's presence feels forced and unnecessary.""",Albus Dumbledore,17/12/2005
+147,female,47,Switzerland,4.5,"""The well-paced storytelling kept me engaged throughout the film.""",Ron Weasley,14/11/2004
+148,male,23,Finland,2.5,"""Hagrid's love for magical creatures becomes a cliché.""",Rubeus Hagrid,14/12/2004
+149,female,18,Turkey,4.5,"""Severus Snape's mysterious aura adds intrigue.""",Severus Snape,17/09/2002
+150,male,51,Spain,4.5,"""Hermione Granger's quick thinking saves the day.""",Hermione Granger,20/10/2004
+151,male,33,Turkey,3,"""The magical world didn't feel convincing, and the characters lacked depth.""",Severus Snape,02/08/2005
+152,other,33,Sweden,2,"""Neville Longbottom's character is forgettable.""",Neville Longbottom,02/10/2004
+153,female,29,Spain,4,"""Hermione Granger's character is a symbol of empowerment.""",Hermione Granger,20/11/2004
+154,female,40,Finland,5,"""The magic is brought to life through stunning visuals.""",Harry Potter,29/10/2005
+155,male,20,Sweden,3,"""The film's production design lacks attention to detail.""",Rubeus Hagrid,14/08/2005
+156,male,53,Germany,4.5,"""A magical experience for audiences of all ages.""",Harry Potter,01/06/2003
+157,other,37,Germany,5,"""Hermione Granger's intelligence is admirable.""",Hermione Granger,15/06/2002
+158,male,25,Croatia,5,"""The enchanting soundtrack perfectly complemented the magical atmosphere.""",Hermione Granger,21/10/2004
+159,female,44,Spain,2.5,"""Severus Snape's character lacks nuance and complexity.""",Severus Snape,04/01/2002
+160,male,50,Finland,4.5,"""Severus Snape's mysterious motivations add an intriguing layer to the plot.""",Severus Snape,27/06/2005
+161,male,26,Switzerland,4,"""Severus Snape's mysterious aura adds an enigmatic quality.""",Severus Snape,26/09/2003
+162,female,33,Germany,4,"""Ron Weasley's loyalty is a highlight, adding heart to the story.""",Ron Weasley,08/10/2003
+163,other,43,Finland,5,"""The film's themes of friendship and bravery are timeless.""",Albus Dumbledore,29/12/2005
+164,other,35,Croatia,4.5,"""Severus Snape's character arc is one of the highlights of the film.""",Severus Snape,22/01/2002
+165,male,33,Finland,4.5,"""Hagrid's love for magical creatures is heartwarming.""",Rubeus Hagrid,07/10/2002
+166,other,43,Spain,5,"""The soundtrack beautifully captured the essence of the wizarding world.""",Hermione Granger,10/11/2002
+167,male,14,Finland,3,"""The magical world seemed artificial, and the characters were uninteresting.""",Neville Longbottom,14/05/2003
+168,female,45,Belgium,5,"""I can't believe I waited so long to watch this masterpiece.""",Ron Weasley,03/08/2005
+169,female,19,Switzerland,4.5,"""The magical world feels rich and immersive.""",Harry Potter,18/10/2005
+170,female,33,Croatia,4.5,"""The visual effects created a stunning and immersive magical world.""",Harry Potter,22/08/2004
+171,female,37,Switzerland,4,"""The characters' chemistry adds depth to the storyline.""",Harry Potter,13/05/2002
+172,female,33,Turkey,4,"""Neville's bravery steals the spotlight in this one.""",Neville Longbottom,10/11/2005
+173,male,20,Germany,5,"""The magic felt real and immersive.""",Rubeus Hagrid,09/01/2003
+174,female,27,Turkey,2.5,"""The magical world lacks the sense of wonder it should evoke.""",Rubeus Hagrid,15/04/2005
+175,other,33,Spain,4.5,"""The film perfectly captures the essence of the book.""",Hermione Granger,17/11/2004
+176,male,37,Croatia,4.5,"""Hermione Granger's character is a role model for many.""",Hermione Granger,09/10/2005
+177,female,31,Switzerland,2.5,"""Hagrid's character seems out of place and unnecessary.""",Rubeus Hagrid,04/04/2004
+178,male,46,Spain,5,"""The film's exploration of friendship and bravery resonated deeply.""",Albus Dumbledore,22/06/2002
+179,female,39,Turkey,4,"""The cinematography enhances the magical atmosphere, creating a visually stunning film.""",Harry Potter,10/01/2005
+180,male,32,Spain,4,"""Draco Malfoy's character added a layer of intrigue to the plot.""",Draco Malfoy,03/02/2005
+181,other,24,Croatia,3,"""Draco Malfoy's character development is impressive.""",Neville Longbottom,31/08/2005
+182,male,38,Finland,4,"""The smooth transitions between scenes enhanced the storytelling.""",Hermione Granger,28/09/2002
+183,other,29,Finland,4,"""The plot twists kept me on the edge of my seat.""",Harry Potter,14/09/2004
+184,female,16,Switzerland,3,"""The magical world lacked authenticity, and the characters felt flat.""",Neville Longbottom,28/09/2005
+185,male,64,Sweden,4.5,"""A captivating introduction to the wizarding world.""",Hermione Granger,02/03/2003
+186,female,36,Croatia,3.5,"""The film's pacing felt rushed at times, but the magical elements kept me engaged.""",Hermione Granger,07/11/2005
+187,male,31,Croatia,4,"""Neville Longbottom's character arc is inspiring.""",Neville Longbottom,23/08/2002
+188,male,31,Spain,4.5,"""A cinematic masterpiece that will stand the test of time.""",Harry Potter,06/02/2005
+189,male,41,Finland,5,"""Spellbinding visual effects that transport you into the wizarding world.""",Rubeus Hagrid,15/04/2005
+190,female,42,France,4.5,"""The wizarding world comes to life brilliantly.""",Harry Potter,17/02/2004
+191,other,30,Turkey,5,"""Neville Longbottom's bravery is inspiring.""",Neville Longbottom,21/12/2002
+192,male,41,Turkey,5,"""The soundtrack perfectly complemented the magical atmosphere.""",Hermione Granger,05/07/2004
+193,female,30,Spain,4.5,"""Hermione's intellect shines throughout.""",Hermione Granger,13/09/2004
+194,female,52,Greece,4.5,"""The pacing was well-balanced, keeping the audience engaged.""",Ron Weasley,06/01/2003
+195,female,44,Turkey,2,"""Hagrid's love for magical creatures becomes a repetitive theme.""",Rubeus Hagrid,10/09/2003
+196,other,26,Turkey,2.5,"""The transitions between scenes were jarring, and the soundtrack was dull.""",Albus Dumbledore,24/12/2005
+197,female,61,Switzerland,5,"""The film's production design is visually stunning.""",Rubeus Hagrid,25/09/2004
+198,other,46,Germany,4.5,"""A magical journey from start to finish!""",Harry Potter,20/07/2003
+199,male,31,Finland,3,"""A bit disappointed with the lack of character development.""",Harry Potter,30/12/2004
+200,other,41,Belgium,5,"""A magical journey that leaves you wanting more.""",Harry Potter,26/01/2005
+201,female,39,Spain,4,"""Magical creatures added a delightful touch.""",Rubeus Hagrid,21/05/2005
+202,other,27,Turkey,4,"""Draco Malfoy's cunning adds a layer of suspense.""",Draco Malfoy,03/01/2003
+203,male,28,Germany,2,"""Hagrid's character seemed out of place, and the transitions were abrupt.""",Rubeus Hagrid,11/08/2003
+204,male,31,Finland,4.5,"""The wisdom and leadership of Albus Dumbledore shine in every scene.""",Albus Dumbledore,04/01/2004
+205,female,34,Netherlands,4.5,"""Neville Longbottom's bravery stole the show for me.""",Neville Longbottom,24/12/2003
+206,female,41,Croatia,4.5,"""Severus Snape's character is shrouded in mystery.""",Severus Snape,14/01/2004
+207,male,36,Spain,4.5,"""The magic duel scenes were exhilarating.""",Severus Snape,13/12/2003
+208,male,35,Switzerland,4,"""The special effects transport you to a magical realm.""",Harry Potter,24/07/2004
+209,male,48,Sweden,2,"""Neville Longbottom's bravery is overshadowed and unexplored""",Neville Longbottom,06/08/2002
+210,female,60,Greece,5,"""Ron Weasley's humor adds a light-hearted touch.""",Ron Weasley,15/08/2004
+211,male,36,Spain,5,"""Captivating storyline with unexpected twists and turns.""",Ron Weasley,13/04/2004
+212,male,34,Switzerland,3.5,"""Draco Malfoy's character adds the perfect element of conflict.""",Draco Malfoy,13/02/2004
+213,male,49,Switzerland,4.5,"""Draco Malfoy's character growth is commendable.""",Draco Malfoy,25/07/2002
+214,female,34,Finland,3.5,"""Pacing was a bit slow, but the characters' development made up for it.""",Ron Weasley,23/05/2004
+215,male,38,Spain,5,"""The enchanting world of Hogwarts captivated me.""",Albus Dumbledore,21/04/2002
+216,female,20,Sweden,4.5,"""The visual effects transported me to a world filled with magic and wonder.""",Harry Potter,07/02/2005
+217,female,45,Greece,4.5,"""Neville Longbottom's journey from timid to brave was inspiring.""",Neville Longbottom,14/03/2002
+218,female,21,Switzerland,4.5,"""The magical world created in this film is absolutely captivating.""",Harry Potter,04/03/2002
+219,other,31,Croatia,2.5,"""Draco Malfoy's character lacks depth and complexity.""",Draco Malfoy,05/05/2004
+220,female,8,Germany,4,"""Clever use of magic in everyday life.""",Draco Malfoy,25/04/2003
+221,female,41,Switzerland,4,"""Albus Dumbledore's presence is both comforting and powerful.""",Albus Dumbledore,01/12/2002
+222,other,35,Spain,4,"""Harry's journey is the heart of the film, making it a compelling watch.""",Harry Potter,06/11/2004
+223,male,41,Spain,4.5,"""The film's length is just right, not too long or short.""",Harry Potter,17/11/2002
+224,female,36,Spain,5,"""Albus Dumbledore's wisdom is a guiding light.""",Albus Dumbledore,26/03/2002
+225,female,33,Croatia,4.5,"""Severus Snape's character is enigmatic.""",Severus Snape,11/01/2004
+226,male,33,Croatia,5,"""I felt like I was part of Hogwarts.""",Ron Weasley,19/03/2004
+227,other,34,Switzerland,4.5,"""Neville Longbottom's character growth was both heartwarming and inspiring.""",Neville Longbottom,15/09/2004
+228,female,28,Germany,4.5,"""The characters' chemistry is delightful.""",Hermione Granger,07/01/2004
+229,male,15,Austria,5,"""The film's tone captures the essence of the book.""",Ron Weasley,27/11/2005
+230,female,56,Greece,4.5,"""The magical world created in this film is enchanting, and the characters are well-developed.""",Harry Potter,19/12/2004
+231,female,30,Spain,4.5,"""The visual effects were groundbreaking and added to the film's magic.""",Harry Potter,01/07/2005
+232,male,51,Belgium,4.5,"""The magical atmosphere is enchanting.""",Harry Potter,27/11/2003
+233,other,29,Germany,3.5,"""Draco Malfoy's cunning adds a layer of suspense.""",Draco Malfoy,02/09/2005
+234,other,38,Germany,2,"""The visual effects were lackluster, and the pacing was inconsistent.""",Rubeus Hagrid,06/03/2004
+235,male,34,Turkey,4.5,"""The pacing was just right, keeping me engaged throughout.""",Ron Weasley,24/04/2002
+236,other,63,Spain,4,"""The smooth transitions between scenes enhanced the flow of the story.""",Hermione Granger,08/04/2004
+237,female,35,Finland,4.5,"""Neville Longbottom stole the show!""",Neville Longbottom,16/11/2003
+238,female,35,Finland,4.5,"""The montage sequences were creatively crafted and visually stunning.""",Harry Potter,23/08/2005
+239,female,12,France,4.5,"""The visual effects brought the magical world to life.""",Harry Potter,18/10/2005
+240,female,42,Switzerland,4,"""Hagrid's character added a lot of warmth and humor to the story.""",Rubeus Hagrid,20/09/2002
+241,male,32,Spain,4.5,"""Severus Snape's mysterious aura adds an intriguing layer to the film.""",Severus Snape,04/07/2003
+242,female,41,Spain,2.5,"""Draco Malfoy's character lacks depth and complexity.""",Draco Malfoy,22/08/2005
+243,other,42,Sweden,5,"""The magic school concept is brilliantly executed.""",Ron Weasley,03/04/2005
+244,male,30,Sweden,4.5,"""The magical world created is truly enchanting.""",Harry Potter,30/05/2005
+245,female,36,Sweden,5,"""I laughed, I cried, I loved every moment.""",Ron Weasley,29/03/2002
+246,female,48,Netherlands,4.5,"""Severus Snape's complexity added depth to the story.""",Severus Snape,14/04/2004
+247,female,42,Sweden,4,"""Quirky characters make the movie memorable.""",Rubeus Hagrid,31/08/2002
+248,female,40,France,4.5,"""Charm and wit make Draco Malfoy memorable.""",Draco Malfoy,22/07/2003
+249,male,49,Austria,4,"""Severus Snape's role is crucial to the plot.""",Severus Snape,07/12/2003
+250,male,45,Turkey,4,"""Ron's humor adds a delightful touch to the overall tone of the film.""",Ron Weasley,22/12/2005
+251,male,40,Switzerland,4.5,"""The magical world is brought to life with stunning visuals.""",Harry Potter,24/09/2003
+252,female,24,Austria,5,"""Spellbinding from start to finish.""",Harry Potter,20/11/2002
+253,male,26,Turkey,5,"""The soundtrack perfectly complements the magical ambiance of Hogwarts.""",Albus Dumbledore,20/01/2002
+254,male,34,Sweden,2,"""The cultural references feel forced and out of place.""",Ron Weasley,29/04/2005
+255,female,39,Finland,4,"""Severus Snape's mysterious character kept me intrigued.""",Severus Snape,08/05/2004
+256,female,37,United Kingdom,5,"""Ron Weasley's humor brings joy to every scene.""",Ron Weasley,15/04/2005
+257,female,52,Spain,4.5,"""The magical world felt alive, thanks to the impressive visual effects.""",Harry Potter,15/02/2002
+258,male,30,Sweden,2,"""The visual effects were outdated, and the pacing was unbearable.""",Rubeus Hagrid,22/02/2004
+259,female,28,Spain,3,"""The rivalry between Draco Malfoy and Harry Potter is intense and well-played.""",Draco Malfoy,25/03/2005
+260,male,27,Greece,3.5,"""Draco Malfoy's character brought a necessary edge to the story.""",Draco Malfoy,09/03/2004
+261,female,26,Greece,4,"""Severus Snape's complexity adds depth to the story.""",Severus Snape,29/08/2003
+262,female,57,Switzerland,5,"""Albus Dumbledore's wisdom guides the characters.""",Albus Dumbledore,07/01/2005
+263,female,62,Netherlands,4,"""The magical creatures bring the wizarding world to life.""",Rubeus Hagrid,19/01/2002
+264,male,13,Finland,3.5,"""Hagrid's character depth is explored beautifully, making him a memorable character.""",Rubeus Hagrid,13/04/2004
+265,male,41,Greece,4.5,"""Rubeus Hagrid's love for magical creatures is contagious.""",Rubeus Hagrid,27/11/2005
+266,male,45,Austria,5,"""The iconic soundtrack perfectly captured the whimsy of the magical world.""",Hermione Granger,18/07/2003
+267,female,54,Sweden,4.5,"""The Quidditch scenes are exhilarating.""",Ron Weasley,12/01/2003
+268,female,50,Spain,4.5,"""Ron Weasley's loyalty is heartening.""",Ron Weasley,17/06/2003
+269,male,28,Finland,5,"""The film's tone perfectly balances adventure and emotion.""",Harry Potter,05/10/2004
+270,male,51,Switzerland,4,"""The film's production design is a visual treat.""",Rubeus Hagrid,15/12/2004
+271,other,39,Finland,2.5,"""Hagrid's character feels like a caricature rather than genuine.""",Rubeus Hagrid,05/02/2002
+272,male,41,Spain,2,"""Draco Malfoy's character was one-dimensional, and the plot was predictable.""",Draco Malfoy,23/06/2005
+273,female,29,Finland,4.5,"""Ron Weasley's friendship with Harry is heartwarming.""",Ron Weasley,13/09/2002
+274,male,24,Finland,4,"""Draco Malfoy's cunning adds tension.""",Draco Malfoy,30/10/2005
+275,male,46,Germany,5,"""I adore the friendship between Harry, Ron, and Hermione.""",Harry Potter,05/03/2003
+276,other,35,Austria,4.5,"""A journey into a world of wonder and magic.""",Harry Potter,06/11/2005
+277,female,27,Switzerland,2,"""The cultural references feel out of touch and forced.""",Ron Weasley,11/06/2005
+278,male,60,Austria,4.5,"""Hermione Granger's intelligence shines throughout.""",Hermione Granger,03/02/2003
+279,female,51,Germany,3,"""The production design lacks creativity and imagination.""",Rubeus Hagrid,05/03/2004
+280,other,48,Spain,4.5,"""The trio's chemistry is the heart of the movie.""",Hermione Granger,04/01/2002
+281,male,16,Germany,4,"""The humorous moments involving Ron Weasley bring lightness to the narrative.""",Ron Weasley,26/09/2005
+282,male,41,Germany,5,"""Neville Longbottom's bravery is truly inspiring.""",Neville Longbottom,30/09/2004
+283,female,58,Turkey,2,"""Draco Malfoy's character lacked nuance, and the plot was unengaging.""",Draco Malfoy,22/06/2004
+284,male,27,France,4,"""The magical world portrayed is awe-inspiring!""",Severus Snape,18/05/2002
+285,female,25,Switzerland,4,"""The special effects were amazing.""",Hermione Granger,05/02/2005
+286,other,32,Germany,2,"""The pacing was sluggish, and the visual effects were unimpressive.""",Ron Weasley,07/06/2003
+287,male,42,United Kingdom,4,"""The seamless transitions between scenes added to the magic.""",Hermione Granger,08/02/2002
+288,female,10,Germany,5,"""Neville Longbottom's growth is truly inspiring.""",Neville Longbottom,08/05/2005
+289,female,46,Sweden,4,"""The cinematography is outstanding.""",Hermione Granger,04/03/2002
+290,other,8,Sweden,2.5,"""Hagrid's character feels like a caricature rather than genuine.""",Rubeus Hagrid,08/07/2002
+291,female,27,Germany,5,"""Ron Weasley's humor adds a delightful touch.""",Ron Weasley,09/05/2004
+292,male,37,Greece,2.5,"""The film's production design fails to create a believable world.""",Rubeus Hagrid,01/12/2004
+293,female,21,Finland,4.5,"""Neville Longbottom's growth is a joy to witness.""",Neville Longbottom,28/01/2002
+294,female,32,Spain,3,"""Draco Malfoy's cunning and sly nature added an interesting dynamic to the narrative.""",Draco Malfoy,09/05/2004
+295,other,24,Austria,4.5,"""Ron Weasley's humor adds a light-hearted touch.""",Ron Weasley,05/05/2005
+296,other,33,Spain,3.5,"""Draco Malfoy's character is a perfect foil.""",Draco Malfoy,18/06/2004
+297,male,27,Croatia,4.5,"""Severus Snape's character adds complexity to the plot.""",Severus Snape,12/09/2005
+298,female,24,Greece,3,"""The setting lacks the enchantment expected from Hogwarts.""",Ron Weasley,20/12/2003
+299,male,27,Germany,4.5,"""The special effects are truly enchanting.""",Rubeus Hagrid,27/08/2003
+300,female,43,Finland,4,"""Ron Weasley's humor adds charm.""",Ron Weasley,13/07/2003
+301,female,29,Finland,4,"""The magical creatures add charm to the story.""",Rubeus Hagrid,29/06/2002
+302,female,34,Spain,4.5,"""Neville Longbottom's journey is relatable and inspiring.""",Neville Longbottom,10/11/2003
+303,other,37,Switzerland,4.5,"""The Sorcerer's Stone is a visual feast.""",Rubeus Hagrid,02/06/2003
+304,female,14,Belgium,4.5,"""Albus Dumbledore's wisdom is reflected in the brilliant dialogue writing.""",Albus Dumbledore,30/04/2003
+305,female,38,Germany,4.5,"""Albus Dumbledore's wisdom is a guiding force throughout the film.""",Albus Dumbledore,23/09/2005
+306,other,29,Sweden,2,"""Severus Snape's role is overshadowed and forgettable.""",Severus Snape,29/04/2002
+307,female,38,Finland,5,"""The magical world feels alive and vibrant.""",Harry Potter,12/07/2003
+308,male,18,Switzerland,5,"""The movie captures the essence of the book.""",Hermione Granger,15/05/2002
+309,female,24,Finland,4.5,"""Hermione Granger's intelligence shines brightly.""",Hermione Granger,08/05/2005
+310,male,18,Belgium,4,"""Draco Malfoy's cunning nature added tension to the plot.""",Draco Malfoy,03/08/2004
+311,female,23,Croatia,2.5,"""Ron Weasley's character lacks depth and development.""",Ron Weasley,27/11/2003
+312,female,31,Switzerland,2,"""The soundtrack was forgettable, and the pacing was painfully slow.""",Draco Malfoy,16/04/2004
+313,female,41,Spain,5,"""The film's exploration of friendship and bravery resonated with me.""",Albus Dumbledore,13/06/2002
+314,female,44,France,4,"""The plot twists kept me on the edge of my seat throughout the entire movie.""",Hermione Granger,06/12/2003
+315,male,29,Switzerland,3.5,"""Draco Malfoy's character adds the perfect villainous touch.""",Draco Malfoy,27/01/2002
+316,male,23,Switzerland,4.5,"""The soundtrack enhances the magical atmosphere.""",Hermione Granger,25/01/2002
+317,female,29,Croatia,4.5,"""The film's setting in the wizarding world is enchanting.""",Harry Potter,10/02/2002
+318,male,40,Spain,4,"""Ron Weasley's humor adds a lighthearted touch to the film.""",Ron Weasley,11/12/2004
+319,female,31,Sweden,5,"""Ron Weasley's bravery shines in every scene.""",Ron Weasley,22/07/2003
+320,male,53,Turkey,4.5,"""The plot is filled with twists and turns.""",Ron Weasley,10/10/2004
+321,male,32,Turkey,4.5,"""Enjoyed the plot twists and turns.""",Ron Weasley,10/11/2002
+322,male,38,Croatia,4.5,"""Hermione's intelligence is inspiring.""",Hermione Granger,11/08/2002
+323,female,33,Switzerland,4.5,"""The pacing kept me engaged, and the characters were lovable.""",Ron Weasley,14/12/2002
+324,male,56,Germany,3,"""The character development was lacking, and the story felt uninspired.""",Ron Weasley,23/11/2002
+325,female,37,Switzerland,4.5,"""Severus Snape's enigmatic character added depth to the narrative.""",Severus Snape,23/09/2002
+326,male,47,Sweden,1.5,"""Draco Malfoy's cunning lacks the subtlety needed for a compelling character.""",Draco Malfoy,01/07/2005
+327,other,17,Turkey,5,"""Neville Longbottom's transformation is incredible.""",Neville Longbottom,17/10/2004
+328,female,44,Switzerland,3.5,"""I wish there was more focus on Neville's character.""",Neville Longbottom,13/12/2003
+329,female,36,Croatia,2.5,"""The visual effects were mediocre, and the story felt disjointed.""",Ron Weasley,07/01/2002
+330,female,44,United Kingdom,4.5,"""Captivating from the first spell to the last.""",Harry Potter,12/07/2005
+331,female,28,Spain,4,"""Severus Snape's mysterious aura adds depth.""",Severus Snape,22/10/2004
+332,female,41,France,5,"""Neville Longbottom's bravery is commendable.""",Neville Longbottom,16/01/2003
+333,female,31,Greece,4.5,"""Rubeus Hagrid's love for magical creatures is heartwarming.""",Rubeus Hagrid,15/02/2003
+334,other,42,Croatia,2.5,"""Ron Weasley's humor becomes repetitive and stale.""",Ron Weasley,14/03/2004
+335,female,36,Croatia,4,"""Draco Malfoy's arrogance adds conflict.""",Draco Malfoy,08/10/2005
+336,male,45,Turkey,2.5,"""The film's length drags on, losing the audience's interest.""",Harry Potter,04/05/2003
+337,female,24,Finland,4.5,"""Severus Snape's complexity adds depth to the storyline.""",Severus Snape,08/01/2004
+338,male,35,Sweden,4,"""Snape's character adds an intriguing layer to the storyline.""",Severus Snape,07/09/2005
+339,other,42,Croatia,4,"""The character development is well-executed, especially in Ron's journey.""",Ron Weasley,23/07/2003
+340,other,46,Greece,5,"""The enchanting soundtrack enhanced the emotional depth of the film.""",Hermione Granger,30/11/2004
+341,male,33,Belgium,4,"""Albus Dumbledore's presence is magical.""",Albus Dumbledore,23/02/2004
+342,male,36,Austria,4.5,"""Neville Longbottom's journey is a powerful narrative.""",Neville Longbottom,21/11/2002
+343,female,45,Sweden,4.5,"""Rubeus Hagrid's love for magical creatures added a unique charm.""",Rubeus Hagrid,21/03/2005
+344,male,14,Finland,2,"""Severus Snape's role is confusing and underdeveloped.""",Severus Snape,24/01/2002
+345,male,28,Turkey,2,"""Draco Malfoy's character lacked nuance, and the plot was unengaging.""",Draco Malfoy,21/02/2004
+346,other,27,Switzerland,4.5,"""Draco Malfoy's cunning nature added tension to the plot.""",Draco Malfoy,19/08/2005
+347,male,38,Croatia,3,"""The film fails to capture the spirit of the original book.""",Hermione Granger,17/09/2005
+348,female,36,Greece,4.5,"""I couldn't get enough of the magic.""",Hermione Granger,06/09/2004
+349,female,33,Turkey,3.5,"""The film's twists are well-crafted, leaving the audience pleasantly surprised.""",Hermione Granger,13/11/2005
+350,male,36,Switzerland,2.5,"""Severus Snape's character lacks a compelling backstory.""",Severus Snape,02/05/2004
+351,female,40,Turkey,3,"""The film's tone fails to capture the essence of the book.""",Ron Weasley,06/05/2004
+352,other,29,Sweden,5,"""The visual effects were groundbreaking for its time.""",Harry Potter,18/11/2003
+353,female,53,France,3,"""The film's tone fails to capture the magic of the wizarding world.""",Ron Weasley,08/12/2005
+354,male,34,Croatia,4.5,"""Albus Dumbledore's wisdom resonates throughout.""",Albus Dumbledore,19/07/2005
+355,female,31,Croatia,3.5,"""The conflicts in the storyline are well-executed, keeping the audience engaged.""",Hermione Granger,19/05/2005
+356,male,17,Spain,4.5,"""The film's production design is a visual feast.""",Rubeus Hagrid,11/12/2002
+357,female,31,Spain,4,"""The magical world feels both familiar and wondrous.""",Harry Potter,24/10/2005
+358,female,26,Finland,5,"""The film's production design is a visual feast.""",Rubeus Hagrid,07/08/2004
+359,other,33,Greece,4.5,"""A magical journey into the wizarding world!""",Harry Potter,09/01/2002
+360,male,23,Finland,5,"""The iconic soundtrack elevated the emotional impact of the film.""",Hermione Granger,10/08/2002
+361,male,48,Finland,3,"""Neville Longbottom's growth feels rushed and unearned.""",Neville Longbottom,12/03/2005
+362,male,12,Spain,2.5,"""Draco Malfoy's character is more annoying than menacing.""",Draco Malfoy,06/04/2003
+363,male,25,Turkey,4,"""Neville Longbottom's courage and growth are portrayed with authenticity.""",Neville Longbottom,29/07/2005
+364,other,48,Spain,5,"""A must-watch for any fantasy lover.""",Albus Dumbledore,20/03/2004
+365,female,43,Spain,2.5,"""Albus Dumbledore's wisdom feels clichéd and uninspiring.""",Albus Dumbledore,10/06/2004
+366,female,43,Switzerland,4.5,"""The complexity of Severus Snape's character adds depth to the overall narrative.""",Severus Snape,09/06/2003
+367,female,36,Germany,3.5,"""Draco Malfoy's character adds the perfect amount of tension.""",Draco Malfoy,04/10/2004
+368,female,37,Finland,2.5,"""Albus Dumbledore's wisdom feels forced and preachy.""",Albus Dumbledore,16/09/2004
+369,male,44,Belgium,4.5,"""A must-watch for any fantasy lover.""",Harry Potter,26/06/2003
+370,male,20,Sweden,4.5,"""The visual effects brought the magical world to life with incredible detail.""",Harry Potter,26/04/2002
+371,female,29,Turkey,2.5,"""The cultural references feel forced and out of place.""",Ron Weasley,24/04/2002
+372,female,57,Germany,3.5,"""Hagrid's interactions with magical creatures showcase his love for them.""",Rubeus Hagrid,05/12/2005
+373,female,53,Greece,2,"""Draco Malfoy's character lacked depth, and the plot failed to captivate.""",Draco Malfoy,23/08/2005
+374,female,33,Spain,5,"""The film's length allows for a thorough exploration of the story.""",Harry Potter,28/06/2002
+375,male,38,Croatia,4.5,"""The storyline is captivating.""",Severus Snape,13/08/2002
+376,male,29,Netherlands,5,"""Albus Dumbledore's wisdom transcends the magical world.""",Albus Dumbledore,28/06/2004
+377,male,52,Sweden,3.5,"""Draco Malfoy's cunning nature adds tension to the plot.""",Draco Malfoy,18/09/2004
+378,other,35,Finland,3,"""Neville Longbottom's bravery is overshadowed and unexplored.""",Neville Longbottom,12/05/2005
+379,male,23,Germany,3,"""The film's tone fails to capture the essence of the book.""",Ron Weasley,05/06/2002
+380,female,39,Spain,3.5,"""Draco Malfoy's character adds the perfect antagonist.""",Draco Malfoy,04/08/2004
+381,male,21,Croatia,5,"""Ron Weasley's humor is the highlight.""",Ron Weasley,01/10/2002
+382,female,22,Belgium,5,"""The enchanting soundtrack elevated the overall cinematic experience.""",Hermione Granger,29/01/2003
+383,female,46,Germany,4,"""Neville Longbottom's character motivations are inspiring and relatable.""",Neville Longbottom,21/01/2004
+384,male,48,Germany,4.5,"""Snape's mysterious aura adds depth.""",Severus Snape,08/09/2005
+385,female,25,Croatia,5,"""The magical atmosphere is spellbinding.""",Harry Potter,31/12/2005
+386,male,38,Turkey,5,"""Neville Longbottom's growth is a joy to witness.""",Neville Longbottom,23/11/2004
+387,female,28,Austria,4,"""The film captures the essence of the wizarding universe.""",Rubeus Hagrid,07/06/2005
+388,male,21,Spain,2.5,"""The montage sequences were poorly edited, disrupting the flow.""",Albus Dumbledore,31/08/2003
+389,male,38,Switzerland,4.5,"""The montage sequences were visually stunning and artistically crafted.""",Harry Potter,21/12/2002
+390,female,31,Austria,4.5,"""Neville Longbottom's bravery and growth were truly inspiring.""",Neville Longbottom,21/12/2004
+391,male,12,Spain,3.5,"""Draco Malfoy's cunning nature adds tension.""",Draco Malfoy,29/12/2005
+392,female,52,Switzerland,4,"""The magical creatures are a delight to watch.""",Rubeus Hagrid,23/03/2003
+393,female,24,Germany,3,"""The film's tone is inconsistent and fails to engage.""",Harry Potter,29/09/2003
+394,male,50,Greece,2.5,"""Severus Snape's motives are unclear and poorly explained.""",Severus Snape,15/04/2004
+395,other,50,Spain,5,"""The film beautifully explored themes of friendship and courage.""",Albus Dumbledore,09/05/2004
+396,male,54,Spain,3.5,"""Ron Weasley's comedic moments added a perfect balance to the storyline.""",Ron Weasley,02/04/2002
+397,female,37,Finland,4.5,"""The well-paced storytelling kept me immersed in the wizarding world.""",Ron Weasley,07/08/2004
+398,female,41,Germany,4.5,"""The film beautifully captures the spirit of the book.""",Hermione Granger,18/08/2002
+399,male,51,Sweden,4.5,"""Severus Snape's character motivations are revealed in a surprising and impactful way.""",Severus Snape,22/09/2005
+400,female,25,Spain,2,"""Severus Snape's character lacks a clear motive.""",Severus Snape,24/12/2005
+401,male,50,Spain,5,"""Albus Dumbledore's presence adds gravitas.""",Albus Dumbledore,15/06/2002
+402,male,31,Sweden,4,"""The characters' chemistry is delightful.""",Hermione Granger,31/08/2004
+403,female,46,Spain,3,"""The magical world lacks the depth and complexity expected.""",Harry Potter,28/12/2004
+404,male,25,Finland,5,"""The magical creatures are a highlight.""",Rubeus Hagrid,30/10/2005
+405,female,35,Switzerland,3,"""The magical world seemed artificial, and the characters were uninteresting.""",Neville Longbottom,01/08/2003
+406,male,40,Turkey,4.5,"""Neville Longbottom's bravery is admirable.""",Neville Longbottom,31/07/2002
+407,male,56,Turkey,3.5,"""The cultural references add depth and relevance.""",Ron Weasley,29/04/2004
+408,male,27,Germany,4,"""The magic lessons are both entertaining and educational.""",Severus Snape,02/06/2005
+409,male,37,Croatia,4,"""The portrayal of Severus Snape's character was captivating and mysterious.""",Severus Snape,23/01/2003
+410,male,56,Germany,3,"""The magical elements are poorly executed and unconvincing.""",Ron Weasley,27/10/2002
+411,female,43,Turkey,2.5,"""The special effects are subpar and take away from the magic.""",Rubeus Hagrid,27/03/2002
+412,male,30,Turkey,2,"""The adaptation deviates too much from the source material.""",Hermione Granger,18/12/2003
+413,male,16,Spain,4.5,"""The transitions between scenes were seamless and added to the magic.""",Hermione Granger,09/09/2005
+414,female,25,Spain,4.5,"""A classic tale of good vs. evil.""",Ron Weasley,02/10/2005
+415,female,34,Sweden,5,"""The magical world feels so real and immersive.""",Rubeus Hagrid,29/07/2003
+416,male,28,Germany,3,"""The magical world feels uninspired and generic.""",Harry Potter,20/03/2004
+417,female,27,Croatia,5,"""Neville Longbottom's journey is a highlight.""",Neville Longbottom,09/08/2002
+418,female,30,Greece,4.5,"""Severus Snape's mysterious aura is intriguing.""",Severus Snape,03/05/2005
+419,female,40,Germany,4.5,"""Hagrid's warmth adds a special touch to the film.""",Rubeus Hagrid,02/12/2003
+420,other,13,France,4,"""Hermione Granger's intelligence shines in every scene.""",Hermione Granger,22/09/2005
+421,male,32,France,4,"""The special effects are mind-blowing!""",Harry Potter,04/07/2004
+422,other,17,Germany,4.5,"""The magical creatures add a whimsical touch.""",Rubeus Hagrid,18/08/2002
+423,female,28,Belgium,4.5,"""The soundtrack adds to the enchantment.""",Ron Weasley,05/09/2002
+424,other,42,Switzerland,5,"""A journey worth taking over and over again.""",Ron Weasley,30/05/2003
+425,female,50,Sweden,5,"""The characters are rich and well-developed.""",Hermione Granger,29/12/2002
+426,male,30,Spain,4.5,"""The visual effects transported me to a world of magic and wonder.""",Harry Potter,30/11/2005
+427,male,33,Greece,5,"""Fantastic portrayal of friendship and courage.""",Neville Longbottom,27/12/2005
+428,male,39,Turkey,4.5,"""The setting at Hogwarts feels like a second home.""",Rubeus Hagrid,05/01/2002
+429,female,41,Germany,4.5,"""Severus Snape's complexity is fascinating.""",Severus Snape,14/01/2003
+430,female,32,Spain,5,"""The soundtrack evoked a sense of wonder and nostalgia.""",Harry Potter,14/12/2005
+431,male,60,Switzerland,2.5,"""The characters' chemistry feels forced and unnatural.""",Hermione Granger,28/02/2005
+432,female,33,Belgium,4,"""The film's structure flows seamlessly, keeping the audience engaged.""",Harry Potter,08/08/2005
+433,male,34,Spain,2.5,"""The montage sequences were poorly edited, disrupting the flow.""",Albus Dumbledore,20/01/2004
+434,female,35,Belgium,2.5,"""The pacing was inconsistent, and the visual effects were subpar.""",Ron Weasley,29/10/2003
+435,female,29,Austria,4.5,"""Ron Weasley's loyalty is a testament to true friendship.""",Ron Weasley,18/11/2002
+436,female,50,Switzerland,4,"""The cultural references make the film relatable.""",Ron Weasley,30/07/2005
+437,female,19,Sweden,2,"""The cultural references feel out of touch and forced.""",Ron Weasley,26/05/2003
+438,female,31,Switzerland,4.5,"""A magical world full of surprises.""",Ron Weasley,13/07/2003
+439,male,44,Germany,4,"""Neville Longbottom's growth is a highlight of the film.""",Neville Longbottom,07/04/2004
+440,other,14,Turkey,2.5,"""The cultural references feel forced and out of place.""",Ron Weasley,25/04/2004
+441,female,37,Finland,5,"""The magic school concept is ingenious.""",Albus Dumbledore,23/08/2004
+442,male,33,Spain,2.5,"""Hagrid's love for magical creatures becomes a cliché.""",Rubeus Hagrid,02/08/2004
+443,male,30,Sweden,2.5,"""Hermione Granger's intelligence is portrayed unrealistically.""",Hermione Granger,23/12/2003
+444,female,49,Finland,4.5,"""Severus Snape's mysterious demeanor added intrigue to the storyline.""",Severus Snape,10/12/2004
+445,male,46,Sweden,4,"""The film's tone captures the magic of the wizarding world.""",Ron Weasley,07/03/2002
+446,female,34,Croatia,5,"""The magical soundtrack added depth to the emotional moments.""",Hermione Granger,12/06/2004
+447,female,31,Germany,5,"""Albus Dumbledore's wisdom is inspiring.""",Albus Dumbledore,13/08/2004
+448,male,37,Austria,3,"""Hermione Granger's character feels overrated.""",Hermione Granger,21/10/2002
+449,male,14,Turkey,3,"""The magical world lacks the depth and complexity expected.""",Harry Potter,03/06/2004
+450,male,16,Turkey,5,"""Neville Longbottom's character development is impressive.""",Neville Longbottom,05/01/2005
+451,female,43,Turkey,5,"""Neville Longbottom's growth is inspiring.""",Neville Longbottom,22/11/2003
+452,female,39,Switzerland,4,"""The soundtrack adds an enchanting touch to the entire experience.""",Hermione Granger,11/09/2004
+453,male,23,Croatia,5,"""The soundtrack is iconic and instantly transports you to the wizarding world.""",Hermione Granger,26/09/2004
+454,female,29,Germany,5,"""Albus Dumbledore steals the show with his wisdom.""",Albus Dumbledore,01/11/2004
+455,female,36,Finland,5,"""Magical world-building at its finest.""",Harry Potter,30/10/2002
+456,male,28,Turkey,4.5,"""The pacing kept me on the edge of my seat throughout the film.""",Ron Weasley,21/08/2003
+457,other,35,Germany,3,"""The film's tone is inconsistent, making it hard to follow.""",Harry Potter,19/05/2005
+458,male,19,Spain,2,"""The soundtrack failed to evoke any emotions.""",Hermione Granger,08/05/2004
+459,female,32,Switzerland,2,"""Severus Snape's character lacks a clear motive.""",Severus Snape,06/11/2004
+460,other,46,Germany,5,"""The friendships feel genuine and heartwarming.""",Neville Longbottom,08/06/2005
+461,male,33,Greece,1.5,"""Draco Malfoy's character is one-dimensional and cliché.""",Draco Malfoy,25/06/2003
+462,female,51,Greece,4.5,"""Draco Malfoy's rivalry adds tension.""",Draco Malfoy,20/08/2005
+463,female,29,Switzerland,4,"""Hermione Granger's intelligence shines throughout the film.""",Hermione Granger,26/03/2004
+464,female,24,Switzerland,4.5,"""The characters are relatable and lovable.""",Ron Weasley,15/08/2002
+465,female,37,Spain,3,"""The character interactions felt forced, and the story was predictable.""",Ron Weasley,30/04/2003
+466,other,30,Spain,4,"""Ron Weasley's loyalty is a highlight of the film.""",Ron Weasley,04/09/2005
+467,female,41,Sweden,4.5,"""Magical storytelling at its finest.""",Albus Dumbledore,30/09/2005
+468,other,54,Finland,4,"""Draco Malfoy's character adds the perfect amount of tension.""",Draco Malfoy,18/06/2002
+469,male,36,Croatia,3.5,"""The characters are lovable, but the plot is a bit predictable.""",Hermione Granger,12/12/2002
+470,female,28,Greece,4,"""Ron Weasley's character development is one of the highlights of the movie.""",Ron Weasley,28/09/2005
+471,male,51,Spain,3,"""The friendship dynamics feel forced and unnatural.""",Harry Potter,25/10/2005
+472,female,54,Sweden,3.5,"""Draco Malfoy's character adds a layer of complexity.""",Draco Malfoy,22/12/2002
+473,female,39,Sweden,4.5,"""I appreciate Hagrid's role as a guide to the magical world; his character is endearing.""",Rubeus Hagrid,10/11/2004
+474,other,31,Spain,2.5,"""The montage sequences were poorly executed, diminishing the overall experience.""",Albus Dumbledore,21/04/2004
+475,male,22,Finland,4,"""Draco Malfoy's character adds complexity.""",Draco Malfoy,28/01/2003
+476,other,51,Netherlands,4.5,"""Hermione Granger's intelligence shines brightly.""",Hermione Granger,26/05/2004
+477,female,37,Spain,4.5,"""Neville Longbottom's character growth was both heartwarming and inspirational.""",Neville Longbottom,07/10/2002
+478,female,61,France,4,"""Draco Malfoy's character provided a compelling antagonist.""",Draco Malfoy,09/06/2004
+479,female,36,Croatia,5,"""Albus Dumbledore's presence is both commanding and wise.""",Albus Dumbledore,13/07/2003
+480,male,51,France,5,"""The magical world feels rich and immersive.""",Albus Dumbledore,14/01/2005
+481,male,23,Sweden,4.5,"""The magic felt real and mesmerizing.""",Rubeus Hagrid,28/07/2004
+482,other,35,Germany,4.5,"""Neville Longbottom's bravery stole the show for me.""",Neville Longbottom,17/05/2005
+483,female,30,Turkey,5,"""The timeless soundtrack captured the essence of the magical world.""",Hermione Granger,27/01/2002
+484,female,13,Belgium,4,"""The film's magic is truly spellbinding.""",Harry Potter,05/08/2005
+485,female,32,Spain,4,"""Severus Snape's character adds an intriguing layer.""",Severus Snape,30/12/2002
+486,female,41,Belgium,2,"""The soundtrack failed to enhance the emotional moments.""",Hermione Granger,22/05/2003
+487,female,30,Turkey,4,"""I enjoyed the soundtrack and the magical feel of the movie.""",Hermione Granger,16/03/2005
+488,female,33,Greece,4.5,"""Albus Dumbledore's wisdom resonates with the audience.""",Albus Dumbledore,03/07/2003
+489,male,28,Spain,4,"""The characters' growth is heartwarming.""",Hermione Granger,10/11/2002
+490,female,34,Austria,5,"""The film's exploration of themes like friendship and bravery is truly timeless.""",Albus Dumbledore,18/05/2002
